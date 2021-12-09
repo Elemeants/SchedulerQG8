@@ -1,0 +1,13 @@
+.settings/
+Debug/**
+Release/**
+FLASH/**
+
+.cwGeneratedFileSetLog
+
+*.obj
+*.log
+*.mk
+*.args
+*.d
+
