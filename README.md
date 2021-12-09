@@ -1,10 +1,10 @@
-# ScheluderQG8
+# SchedulerQG8
 
-Implements a simple scheluder for a freescale microcontroller mc9s08qg8.
+Implements a simple scheduler for a freescale microcontroller mc9s08qg8.
 
 ## Description
 
-Uses a Round-Robin scheluder, to execute a list of "static" threads.
+Uses a Round-Robin scheduler, to execute a list of "static" threads.
 
 > This project is for "eduational" purposes, the microcontroller only
 > haves 512 bytes of ram, so is no good enough to execute a lot of
